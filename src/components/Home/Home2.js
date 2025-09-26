@@ -19,21 +19,28 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with programming and enjoy turning ideas into
+    impactful solutions. 🚀
               <br />
-              <br />I am fluent in classics like
+              <br />I am skilled in languages like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> C++, C, Python, Java, Javascript and Go. </b>
               </i>
+              and have experience working across
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple"> full-stack development </b>
+              </i>
+              and building scalable systems.
+              <br />
+              <br />
+              My field of Interest's include &nbsp;
+              <i>
+                <b className="purple">Web Technologies, Data Engineering, and AI-driven Products </b> 
+                along with a passion for exploring{" "}
                 <b className="purple">
-                  Blockchain.
+                  Cloud, DevOps, and Distributed Systems.
                 </b>
               </i>
               <br />
@@ -48,8 +55,9 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js, Next.js  and Express.js</b>
               </i>
+              to deliver smooth, high-performance user experiences.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -67,7 +75,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/HarshavardhanSR"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -75,19 +83,19 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/" for twitter or x
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <AiOutlineTwitter />
                 </a>
-              </li>
+              </li> */}
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/harshavardhan-sr-a8a15121b/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +105,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/___harshavardhan?utm_source=qr&igsh=MWxxdzNmOHB3Y3d3cg=="
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
