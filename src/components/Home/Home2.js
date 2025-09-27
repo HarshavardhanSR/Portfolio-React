@@ -24,13 +24,13 @@ function Home2() {
               <br />
               <br />I am skilled in languages like
               <i>
-                <b className="purple"> C++, C, Python, Java, Javascript and Go. </b>
+                <b className="purple"> C++, C, Python, Java, Javascript, Go </b>
               </i>
               and have experience working across
               <br />
               <br />
               <i>
-                <b className="purple"> full-stack development </b>
+                <b className="purple"> Full-Stack development </b>
               </i>
               and building scalable systems.
               <br />
@@ -55,7 +55,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js, Next.js  and Express.js</b>
+                <b className="purple"> React.js, Next.js  and Express.js </b>
               </i>
               to deliver smooth, high-performance user experiences.
             </p>
