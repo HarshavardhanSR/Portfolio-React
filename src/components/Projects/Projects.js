@@ -39,7 +39,7 @@ function Projects() {
               title="Insta Wild"
               description="Wildlife detection app that classifies animals from uploaded images and shows their danger level. Built with React.js, Flask, and a CNN model trained on wildlife datasets. Helps raise awareness about endangered species and safety measures."
               ghLink="https://github.com/HarshavardhanSR/Insta_Wild"
-              demoLink="https://blogs.soumya-jit.tech/"
+              // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
@@ -50,7 +50,7 @@ function Projects() {
               title="HairFall Detection System"
               description="A web-based system to detect early signs of hairfall using uploaded scalp images. Built with React.js, Firebase, and TensorFlow.js. Provides a health score and suggestions for improvement."
               ghLink="https://github.com/HarshavardhanSR/HairFall_Detection_System"
-              demoLink="https://editor.soumya-jit.tech/"              
+              // demoLink="https://editor.Harshavardhan SR-jit.tech/"              
             />
           </Col>
 
